@@ -1,0 +1,19 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(233, 115, 174);
+}
+
+.content {
+    background-color: darkgray;
+    width:300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+.content h1 {
+    text-transform: uppercase;
+}
